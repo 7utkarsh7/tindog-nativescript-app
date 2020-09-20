@@ -21,3 +21,4 @@ tns debug <platform>
 tns build <platform> --env.production
 
 ```
+![](IMG20200920163606.jpg)
