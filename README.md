@@ -22,3 +22,5 @@ tns build <platform> --env.production
 
 ```
 ![](IMG20200920163606.jpg)
+![](Screenshot_2020-09-20-16-36-44-74_78ecb683328d6d589b220669874848fc.jpg)
+![](Screenshot_2020-09-20-16-36-51-74_78ecb683328d6d589b220669874848fc.jpg)
